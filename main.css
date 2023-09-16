@@ -1,0 +1,125 @@
+body {
+    background-color:gray;
+}
+
+
+
+
+#M {
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 3.5px 3.5px rgb(82, 214, 67);
+    font-size: 100px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+
+
+#AmidaHead{
+    height: 220px;
+    border-radius: 100px;
+    border: 5px solid rgb(255, 255, 255);
+    margin: 0px 0px 0px 15px;
+}
+
+
+
+
+
+
+#Office {
+    height: 250px;
+    width: 450px;
+    border-radius: 100px;
+    border: 5px solid rgb(255, 255, 255);
+    margin: 0px 0px 0px 15px;
+}
+
+
+#Shop {
+    height: 200px;
+    width: 370px;
+    border-radius: 100px;
+    border: 5px solid rgb(255, 255, 255);
+    margin: 0px 15px 0px 0px;
+}
+
+
+#Flower {
+    width: 350px;
+    height: 200px;
+    border-radius: 100px;
+    border: 5px solid rgb(255, 255, 255);
+    margin: 0px 15px 0px 0px;
+}
+
+.Flet {
+    width: 350px;
+    height: 250px;
+    border-radius: 100px;
+    border: 5px solid rgb(255, 255, 255);
+    margin: 50px 0px 0px 15px;
+}
+
+#table1 {
+    width: 100%;
+    border-spacing: 0;
+}
+
+
+#table2 {
+    width: 100%;
+    border-spacing: 0;
+}
+
+
+
+.left {
+    text-align: left;
+    padding: 10px 0px 0px 20px;
+    margin: 20px 0px 0px 20px;
+    size: 20px;
+}
+
+.right {
+    text-align: right;
+    padding: 0px 20px 0px 0px;
+    margin: 0px 20px 0px 0px;
+    size: 20px;
+}
+
+.center {
+    size: 20px;
+}
+
+.Flet-style {
+    text-align: center;
+}
+
+
+.HR {
+    height: 2.5px;
+    width: 500px;
+    background: black;
+
+}
+
+.line {
+    height: 2.5px;
+    width: 100%;
+    background-color: black;
+} 
+
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+
+
+button {
+    font-size: 20px;
+}
